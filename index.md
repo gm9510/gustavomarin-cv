@@ -1,67 +1,91 @@
-# Markdown syntax guide
+<!-- ---
+layout: cv
+title: Isaac Newtons's CV
+--- -->
+# Gustavo Marín
+Physicist, Software Engiener, Backend Developer
 
-## Headers
+<div id="webaddress">
+<a href="gm9510@gmail.com">gm9510@gmail.com</a>
+| <a href="https://www.linkedin.com/in/gustavo-mar%C3%ADn-a1332110/">My LinkedIn</a>
+</div>
 
-# This is a Heading h1
-## This is a Heading h2 
-###### This is a Heading h6
 
-## Emphasis
+## About Me
+Software developer with a science and research background. Experience in scientific research with a published paper. Working experience as a software developer designing features and integrations based on client's demands with one year of experience with VueJs and Symfony. Backend experience developing microservices in PHP and Golang. Familiar with SQL and NoSQL databases, version control with Git and Design patterns. Fast Learner and keen on taking challenges.
 
-*This text will be italic*  
-_This will also be italic_
+### Languages
 
-**This text will be bold**  
-__This will also be bold__
+__Spanish__(*Native*),  __English__(*Proficient*), 
 
-_You **can** combine them_
 
-## Lists
+## Experience
+`20022 Jul - now`
+__Enerbit__
 
-### Unordered
+- _GO,grpc / Postgresql_
+- Services of Backend Software Development.
+- Microservice: Database Manager with Golang using GO,GORM,GIN.
 
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
 
-### Ordered
+## Education
 
-1. Item 1
-1. Item 2
-1. Item 3
-  1. Item 3a
-  1. Item 3b
+`1654-1660`
+__The King's School, Grantham.__
 
-## Images
+`June 1661 - now`
+__Trinity College, Cambridge__
 
-![This is a alt text.](/image/sample.png "This is a sample image.")
+- Sizar
 
-## Links
+`1667 - death`
+__Trinity College, Cambridge__
 
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+- Fellow
 
-## Blockquotes
 
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
-## Tables
+## Awards
 
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
+`2012`
+President, *Royal Society*, London, UK
 
-## Blocks of code
+Associate, *French Academy of Science*, Paris, France
 
-```
-let message = 'Hello world';
-alert(message);
-```
 
-## Inline code
 
-This web site is using `markedjs/marked`.
+## Publications
+
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
+### Journals
+
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+
+`1669`
+Lectiones opticæ.
+
+etc. etc. etc.
+
+### Patents
+
+`2012`
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+
+
+## Occupation
+
+`1600`
+__Royal Mint__, London
+
+- Warden
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
+
+
+
+<!-- ### Footer
+Last updated: May 2013 -->
