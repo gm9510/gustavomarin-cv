@@ -3,7 +3,7 @@ layout: cv
 title: Isaac Newtons's CV
 --- -->
 # Gustavo Marín
-Physicist, Software Engiener, Backend Developer
+Physicist, Software Engineer, Backend Developer
 
 <div id="webaddress">
 <a href="gm9510@gmail.com">gm9510@gmail.com</a>
