@@ -20,70 +20,57 @@ __Spanish__(*Native*),  __English__(*Proficient*),
 
 
 ## Experience
-`20022 Jul - now`
+`2022 Aug - now`
 __Enerbit__
 
-- _GO,grpc / Postgresql_
-- Services of Backend Software Development.
-- Microservice: Database Manager with Golang using GO,GORM,GIN.
+* Backend Developer, Tech Lead
+* _Tools:_ Python, Go, GRPC, Postgresql, Redis, Azure.
+* _Achivements_:
+  * Migration of critical services from Python to Go, the new sistems were able to support 10 times more users using the same resources.
+  * Introduction of GRPC as intracluster comunication protocol, centralized libraries allow us to keep in sync models between clients and servers.
 
+`2022 Jan - Jul`
+__Globant__
+
+* Backend Developer
+* _Tools:_ Go, Gorilla, Gin, AWS.
+* _Achivements_:
+  * Microservice: OAuth 2 autthentication microservice with Golang using HTTP REST.
+
+`2021`
+__Enerbit__
+
+* Fullstack Developer & Software Support
+* _Tools:_ PHP, Symfony, Vue.js, PostgreSQL
+* _Achivements_:
+  * Upload File Service: With this Symfony injectable service, I manage to unify the way in which the files were uploaded and store in the server avoiding redundancy and improving usability.
+  * Reports API REST: A microservice able to generate pdf and xlsx files from html files and datasets
+
+`2020`
+__Un Valle del Conocimiento:__
+
+* Research Assistan
+* _Tools:_ Excel, Python, Numpy
+* _Achivements_:
+  * Scientific report with the recollected data and analasys of such data using PCA and Hierarchical Clustering to group regions by its state in Research and Innovation.
+
+`2019`
+__Univalle:__
+
+* Research Assistan
+* _Tools:_ C++, Ublas, Boost, Wolfram
+* _Achivements_:
+  * Published Paper: Numerical implementation of a matter-wave Mach-Zehnder interferometer; DOI: 10.7149/OPA.52.3.50309
 
 ## Education
+`2013 - 2019`
+__Universidad del Valle__
+* Bachelor’s Degree
+* Santiago de Cali, Professional, Physics
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+__School__
+* Schools
+  * Super Computing Camp: Parallel Programming, Multiprocessors Programming
 
 
 
