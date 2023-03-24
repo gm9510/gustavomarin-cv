@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Gustavo MArín CV's
+title: Gustavo Marín
 ---
-# Gustavo Marín
+# 
 Physicist, Software Engineer, Backend Developer
 
 <div id="webaddress">
