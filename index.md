@@ -1,7 +1,7 @@
-<!-- ---
+---
 layout: cv
 title: Isaac Newtons's CV
---- -->
+---
 # Gustavo Marín
 Physicist, Software Engineer, Backend Developer
 
@@ -65,10 +65,12 @@ __Univalle:__
 ## Education
 `2013 - 2019`
 __Universidad del Valle__
+
 * Bachelor’s Degree
 * Santiago de Cali, Professional, Physics
 
 __School__
+
 * Schools
   * Super Computing Camp: Parallel Programming, Multiprocessors Programming
 
