@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Gustavo MArín CV's
 ---
 # Gustavo Marín
 Physicist, Software Engineer, Backend Developer
