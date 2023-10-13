@@ -1,1 +1,3 @@
 pandoc -f markdown -t html5 -o output.html index.html
+
+pandoc -s -c ./styles/kjhealy-screen.css index.md -o index.html
